@@ -10,5 +10,3 @@ lenght = 20
 
 password = ''.join(random.sample(sequence, lenght))
 print(password)
-
- 
